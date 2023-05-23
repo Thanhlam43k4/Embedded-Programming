@@ -1,11 +1,11 @@
 Signal Programming in Embedded is:
 
-Software interrupt.
+-Software interrupt.
 
-The most common method of communication btw applications.
+-The most common method of communication btw applications.
 
 Send signal through the command:
 
-			Kill + pid
+			Kill + pid	(pid: Process ID)
 
 
