@@ -1,2 +1,4 @@
 # Embedded-Programming
-Programming embedded C language
+
+Programming embedded C language in Linux
+
