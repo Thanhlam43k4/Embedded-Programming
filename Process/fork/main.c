@@ -1,9 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
-
-
-
 int main(int argc,char const *argv[])
 {
 	pid_t child_pid;
@@ -18,10 +15,10 @@ int main(int argc,char const *argv[])
 		printf("\nIm the parent  process,counter :%d\n",counter);
 		printf("My PID is :%d\n",getpid());
 		while(1);
-
-
-
 	}
 	return 0;
 
 }
+
+
+
